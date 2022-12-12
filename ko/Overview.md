@@ -13,6 +13,6 @@
 
 * Agent 점검 중단 시 지원 서비스를 제공합니다.
 
-## 서비스 절차 (이미지 제작 요청 필요)
+## 서비스 절차
 
 ![WebshellThreatDetector_overview01.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_overview01.png)
