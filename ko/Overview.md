@@ -15,4 +15,4 @@
 
 ## 서비스 절차 (이미지 제작 요청 필요)
 
-![serversecuritycheck_00_20201015.png](https://static.toastoven.net/prod_serversecuritycheck/serversecuritycheck_00_20201020.png)
+![WebshellThreatDetector_overview01.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_overview01.png)
