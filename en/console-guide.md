@@ -6,7 +6,7 @@ This document explains how to execute a checking agent.
 
 Select an instance OS to import an agent execution script.
 
-![WebshellThreatDetector_01_20221129.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_01_20221129.png)
+![WebshellThreatDetector_01_20221129.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_en_01_20221129.png)
 
 ### For Linux
 
