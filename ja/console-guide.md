@@ -6,7 +6,7 @@
 
 インスタンスOSを選択してエージェント実行スクリプトを呼び出します。
 
-![WebshellThreatDetector_01_20221129.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_01_20221129.png)
+![WebshellThreatDetector_01_20221129.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_jp_01_20221129.png)
 
 ### Linux系列エージェント
 
