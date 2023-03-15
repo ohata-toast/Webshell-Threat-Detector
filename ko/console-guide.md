@@ -1,10 +1,10 @@
 ## Security > Webshell Threat Detector > 콘솔 사용 가이드
 
-여기에서는 점검 에이전트 실행 절차를 설명합니다. 
+여기에서는 점검 에이전트 활성화 절차를 설명합니다. 
 
 ## 에이전트 활성화 절차
 
-인스턴스 OS를 선택하여 에이전트 실행 스크립트를 불러옵니다.
+인스턴스 OS를 선택하여 에이전트 활성화 스크립트를 불러옵니다.
 
 ![WebshellThreatDetector_01_20221129.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_01_20221129.png)
 
@@ -31,7 +31,7 @@ Configure the data directory..
 Install Finished!
 ```
 
-## Agent 비활성화 절차
+## 에이전트 비활성화 절차
 
 1\. 삭제 스크립트를 복사합니다.
 
